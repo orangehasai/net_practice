@@ -79,6 +79,6 @@ The following references are included as classic background material and further
 
 ### AI usage
 
-AI was used to draft and structure this `README.md`, summarize the subject requirements, and check that the exported files matched the required submission layout.
+AI was used to draft and structure this `README.md`, and confirm small pieces of networking knowledge while working on the exercises.
 
 AI was not used as a substitute for understanding the exercises themselves.
